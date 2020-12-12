@@ -9,9 +9,9 @@ Bot Telegram integration with Framework Codeigniter 3x,
 *******************
 REQUIRE
 *******************
--  `VPS/Shared Hosting and SSL or Nginx use custom certificate`_
--  `Database MYSQL`_
--  `PHP 7.2^`_
+-  VPS/Shared Hosting and SSL or Nginx use custom certificate
+-  Database MYSQL
+-  PHP 7.2^
 
 ************
 Library
